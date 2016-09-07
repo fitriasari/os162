@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 fitriasari.nurhidayati StafCS 4096 Sep  7 13:38 .
+drwx--x--x  3 fitriasari.nurhidayati StafCS 4096 Sep  7 13:36 ..
+drwxr-xr-x  8 fitriasari.nurhidayati StafCS 4096 Sep  7 13:37 .git
+-rw-r--r--  1 fitriasari.nurhidayati StafCS    0 Sep  7 13:39 lab01.txt
+-rw-r--r--  1 fitriasari.nurhidayati StafCS    7 Sep  7 12:55 README.md
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:22 SandBox
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:36 week00
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:09 week01
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:09 week02
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:10 week03
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:12 week04
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:13 week05
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:13 week06
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:13 week07
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:14 week08
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:14 week09
+drwxr-xr-x  2 fitriasari.nurhidayati StafCS 4096 Sep  7 13:14 week10
+/home/fasilkom/mahasiswa/f/fitriasari.nurhidayati/os162/week01
