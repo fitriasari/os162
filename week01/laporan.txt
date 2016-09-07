@@ -1,0 +1,4 @@
+#fitriasari_nurhidayati
+#class (MTX2016)
+#Using Push and Pull Repository
+#first time using VI and learn command program on badak
